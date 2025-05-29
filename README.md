@@ -4,14 +4,15 @@
 
 Trabajo Práctico número 2 de la materia Algoritmos y Programación III de FIUBA
 
-## Grupo {N}
+## Grupo 11
 
-* **Integrante 1** - [integrante1](https://github.com/integrante1)
-* **Integrante 2** - [integrante2](https://github.com/integrante2)
-* **Integrante 3** - [integrante3](https://github.com/integrante3)
-* **Integrante 4** - [integrante4](https://github.com/integrante4)
+* **Integrante 1** - [Salvador Perez Mendoza](https://github.com/salvaPerezMendoza)
+* **Integrante 2** - [Valentin Marcos Provost](https://github.com/ValentinProvostFIUBA)
+* **Integrante 3** - [Juan Ruben Claros Garcia](https://github.com/JuanClaros15)
+* **Integrante 4** - [Nahuel Cruz](https://github.com/cruznahuel)
+* **Integrante 5** - [Carlos Franco Mendoza Coronado](https://github.com/Fm900)
 
-Corrector: **{Corrector}**
+Corrector: **Pablo Rodriguez Massuh**
 
 ## Aplicación
 
