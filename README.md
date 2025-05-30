@@ -6,7 +6,7 @@ Trabajo Práctico número 2 de la materia Algoritmos y Programación III de FIUB
 
 ## Grupo 11
 
-* **Integrante 1** - [Salvador Perez Mendoza](https://github.com/salvaPerezMendoza)
+* **Integrante 1** - [Salvador Perez Mendoza - 110198](https://github.com/salvaPerezMendoza)
 * **Integrante 2** - [Valentin Marcos Provost](https://github.com/ValentinProvostFIUBA)
 * **Integrante 3** - [Juan Ruben Claros Garcia](https://github.com/JuanClaros15)
 * **Integrante 4** - [Nahuel Cruz](https://github.com/cruznahuel)
